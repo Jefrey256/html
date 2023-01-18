@@ -7,7 +7,6 @@
   <script src="./src/periglo.js"></script>
 </head>
  <body class="dark-theme" >
-    <h1> Ola mundo </h1>
    <a href="src/teste.html" >CP3 2</a>
    <button class="btn" onclick="btn()"> Dark</button>
    <div class="cp">
